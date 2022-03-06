@@ -1,6 +1,6 @@
 #NoEnv
 #SingleInstance Force
-#IfWinActive, Minecraft ; Ensure Minecraft is the active window.
+#IfWinActive, Minecraft
 
 FileRead, Index, i.txt
 Array := Object()
